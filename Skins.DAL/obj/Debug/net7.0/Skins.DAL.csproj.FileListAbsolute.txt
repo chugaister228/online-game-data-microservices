@@ -1,0 +1,17 @@
+D:\Study\Csharp\GameDataProject\Skins.DAL\bin\Debug\net7.0\Skins.DAL.deps.json
+D:\Study\Csharp\GameDataProject\Skins.DAL\bin\Debug\net7.0\Skins.DAL.runtimeconfig.json
+D:\Study\Csharp\GameDataProject\Skins.DAL\bin\Debug\net7.0\Skins.DAL.dll
+D:\Study\Csharp\GameDataProject\Skins.DAL\bin\Debug\net7.0\Skins.DAL.pdb
+D:\Study\Csharp\GameDataProject\Skins.DAL\bin\Debug\net7.0\Skins.Data.dll
+D:\Study\Csharp\GameDataProject\Skins.DAL\bin\Debug\net7.0\Skins.Data.pdb
+D:\Study\Csharp\GameDataProject\Skins.DAL\obj\Debug\net7.0\Skins.DAL.csproj.AssemblyReference.cache
+D:\Study\Csharp\GameDataProject\Skins.DAL\obj\Debug\net7.0\Skins.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\Csharp\GameDataProject\Skins.DAL\obj\Debug\net7.0\Skins.DAL.AssemblyInfoInputs.cache
+D:\Study\Csharp\GameDataProject\Skins.DAL\obj\Debug\net7.0\Skins.DAL.AssemblyInfo.cs
+D:\Study\Csharp\GameDataProject\Skins.DAL\obj\Debug\net7.0\Skins.DAL.csproj.CoreCompileInputs.cache
+D:\Study\Csharp\GameDataProject\Skins.DAL\obj\Debug\net7.0\Skins.DAL.csproj.CopyComplete
+D:\Study\Csharp\GameDataProject\Skins.DAL\obj\Debug\net7.0\Skins.DAL.dll
+D:\Study\Csharp\GameDataProject\Skins.DAL\obj\Debug\net7.0\refint\Skins.DAL.dll
+D:\Study\Csharp\GameDataProject\Skins.DAL\obj\Debug\net7.0\Skins.DAL.pdb
+D:\Study\Csharp\GameDataProject\Skins.DAL\obj\Debug\net7.0\Skins.DAL.genruntimeconfig.cache
+D:\Study\Csharp\GameDataProject\Skins.DAL\obj\Debug\net7.0\ref\Skins.DAL.dll

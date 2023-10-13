@@ -1,0 +1,14 @@
+D:\Study\Csharp\GameDataProject\Skins.BLL\bin\Debug\net7.0\Skins.BLL.deps.json
+D:\Study\Csharp\GameDataProject\Skins.BLL\bin\Debug\net7.0\Skins.BLL.runtimeconfig.json
+D:\Study\Csharp\GameDataProject\Skins.BLL\bin\Debug\net7.0\Skins.BLL.dll
+D:\Study\Csharp\GameDataProject\Skins.BLL\bin\Debug\net7.0\Skins.BLL.pdb
+D:\Study\Csharp\GameDataProject\Skins.BLL\obj\Debug\net7.0\Skins.BLL.csproj.AssemblyReference.cache
+D:\Study\Csharp\GameDataProject\Skins.BLL\obj\Debug\net7.0\Skins.BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\Csharp\GameDataProject\Skins.BLL\obj\Debug\net7.0\Skins.BLL.AssemblyInfoInputs.cache
+D:\Study\Csharp\GameDataProject\Skins.BLL\obj\Debug\net7.0\Skins.BLL.AssemblyInfo.cs
+D:\Study\Csharp\GameDataProject\Skins.BLL\obj\Debug\net7.0\Skins.BLL.csproj.CoreCompileInputs.cache
+D:\Study\Csharp\GameDataProject\Skins.BLL\obj\Debug\net7.0\Skins.BLL.dll
+D:\Study\Csharp\GameDataProject\Skins.BLL\obj\Debug\net7.0\refint\Skins.BLL.dll
+D:\Study\Csharp\GameDataProject\Skins.BLL\obj\Debug\net7.0\Skins.BLL.pdb
+D:\Study\Csharp\GameDataProject\Skins.BLL\obj\Debug\net7.0\Skins.BLL.genruntimeconfig.cache
+D:\Study\Csharp\GameDataProject\Skins.BLL\obj\Debug\net7.0\ref\Skins.BLL.dll
