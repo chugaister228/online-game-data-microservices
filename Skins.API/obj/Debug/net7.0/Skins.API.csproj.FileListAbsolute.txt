@@ -72,3 +72,7 @@ D:\Study\Csharp\GameDataProject\Skins.API\obj\Debug\net7.0\refint\Skins.API.dll
 D:\Study\Csharp\GameDataProject\Skins.API\obj\Debug\net7.0\Skins.API.pdb
 D:\Study\Csharp\GameDataProject\Skins.API\obj\Debug\net7.0\Skins.API.genruntimeconfig.cache
 D:\Study\Csharp\GameDataProject\Skins.API\obj\Debug\net7.0\ref\Skins.API.dll
+D:\Study\Csharp\GameDataProject\Skins.API\bin\Debug\net7.0\AutoMapper.dll
+D:\Study\Csharp\GameDataProject\Skins.API\bin\Debug\net7.0\Skins.BLL.dll
+D:\Study\Csharp\GameDataProject\Skins.API\bin\Debug\net7.0\Skins.BLL.pdb
+D:\Study\Csharp\GameDataProject\Skins.API\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll

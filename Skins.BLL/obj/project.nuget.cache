@@ -1,11 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "tXMzfPyQ3pz2B3yrOZ9IDhZ/ZhzgtugRdHZ9tbl0TfaoimbuYz5Bsvo3eYFnnpKz9jKyFDoua/Id4G3XBwre+Q==",
+  "dgSpecHash": "3Q7XG3XNfm0m+eKKPKAvz/A9sXe2b2uSsBopEHSO0dmwAx+8F5kSVgwc7QPRV0vgZlqPWa230v6qkzcO6arFnw==",
   "success": true,
   "projectFilePath": "D:\\Study\\Csharp\\GameDataProject\\Skins.BLL\\Skins.BLL.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\boguc\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\boguc\\.nuget\\packages\\bogus\\34.0.2\\bogus.34.0.2.nupkg.sha512",
     "C:\\Users\\boguc\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
+    "C:\\Users\\boguc\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\boguc\\.nuget\\packages\\microsoft.data.sqlite.core\\7.0.11\\microsoft.data.sqlite.core.7.0.11.nupkg.sha512",
     "C:\\Users\\boguc\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.11\\microsoft.entityframeworkcore.7.0.11.nupkg.sha512",
     "C:\\Users\\boguc\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\7.0.11\\microsoft.entityframeworkcore.abstractions.7.0.11.nupkg.sha512",

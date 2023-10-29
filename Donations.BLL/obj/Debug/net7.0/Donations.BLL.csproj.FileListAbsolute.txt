@@ -1,0 +1,17 @@
+D:\Study\Csharp\GameDataProject\Donations.BLL\bin\Debug\net7.0\Donations.BLL.deps.json
+D:\Study\Csharp\GameDataProject\Donations.BLL\bin\Debug\net7.0\Donations.BLL.dll
+D:\Study\Csharp\GameDataProject\Donations.BLL\bin\Debug\net7.0\Donations.BLL.pdb
+D:\Study\Csharp\GameDataProject\Donations.BLL\bin\Debug\net7.0\Donations.DAL.dll
+D:\Study\Csharp\GameDataProject\Donations.BLL\bin\Debug\net7.0\Donations.Data.dll
+D:\Study\Csharp\GameDataProject\Donations.BLL\bin\Debug\net7.0\Donations.DAL.pdb
+D:\Study\Csharp\GameDataProject\Donations.BLL\bin\Debug\net7.0\Donations.Data.pdb
+D:\Study\Csharp\GameDataProject\Donations.BLL\obj\Debug\net7.0\Donations.BLL.csproj.AssemblyReference.cache
+D:\Study\Csharp\GameDataProject\Donations.BLL\obj\Debug\net7.0\Donations.BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\Csharp\GameDataProject\Donations.BLL\obj\Debug\net7.0\Donations.BLL.AssemblyInfoInputs.cache
+D:\Study\Csharp\GameDataProject\Donations.BLL\obj\Debug\net7.0\Donations.BLL.AssemblyInfo.cs
+D:\Study\Csharp\GameDataProject\Donations.BLL\obj\Debug\net7.0\Donations.BLL.csproj.CoreCompileInputs.cache
+D:\Study\Csharp\GameDataProject\Donations.BLL\obj\Debug\net7.0\Donations.BLL.csproj.CopyComplete
+D:\Study\Csharp\GameDataProject\Donations.BLL\obj\Debug\net7.0\Donations.BLL.dll
+D:\Study\Csharp\GameDataProject\Donations.BLL\obj\Debug\net7.0\refint\Donations.BLL.dll
+D:\Study\Csharp\GameDataProject\Donations.BLL\obj\Debug\net7.0\Donations.BLL.pdb
+D:\Study\Csharp\GameDataProject\Donations.BLL\obj\Debug\net7.0\ref\Donations.BLL.dll

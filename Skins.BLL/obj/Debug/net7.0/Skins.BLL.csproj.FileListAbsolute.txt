@@ -12,3 +12,8 @@ D:\Study\Csharp\GameDataProject\Skins.BLL\obj\Debug\net7.0\refint\Skins.BLL.dll
 D:\Study\Csharp\GameDataProject\Skins.BLL\obj\Debug\net7.0\Skins.BLL.pdb
 D:\Study\Csharp\GameDataProject\Skins.BLL\obj\Debug\net7.0\Skins.BLL.genruntimeconfig.cache
 D:\Study\Csharp\GameDataProject\Skins.BLL\obj\Debug\net7.0\ref\Skins.BLL.dll
+D:\Study\Csharp\GameDataProject\Skins.BLL\bin\Debug\net7.0\Skins.DAL.dll
+D:\Study\Csharp\GameDataProject\Skins.BLL\bin\Debug\net7.0\Skins.Data.dll
+D:\Study\Csharp\GameDataProject\Skins.BLL\bin\Debug\net7.0\Skins.DAL.pdb
+D:\Study\Csharp\GameDataProject\Skins.BLL\bin\Debug\net7.0\Skins.Data.pdb
+D:\Study\Csharp\GameDataProject\Skins.BLL\obj\Debug\net7.0\Skins.BLL.csproj.CopyComplete

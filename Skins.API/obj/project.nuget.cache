@@ -1,12 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "Ddy9IhAUnQyVMcwDbea5gdE3A5U9IKqHiS1nZf1JkEQEgakrRaFr2y5Gv+0RkBVX6s1beKxRFDpJiSqbo2PZ4w==",
+  "dgSpecHash": "SU7Pk5uqqJX2MTDt5d/8Vtvf8AahPZB4ms+4OUY+cHLJxmhmAaW9LTirDtjs/+YjJEhVSrnaXWR51X0eyoFOSQ==",
   "success": true,
   "projectFilePath": "D:\\Study\\Csharp\\GameDataProject\\Skins.API\\Skins.API.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\boguc\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\boguc\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
     "C:\\Users\\boguc\\.nuget\\packages\\bogus\\34.0.2\\bogus.34.0.2.nupkg.sha512",
     "C:\\Users\\boguc\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\boguc\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.9\\microsoft.aspnetcore.openapi.7.0.9.nupkg.sha512",
+    "C:\\Users\\boguc\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\boguc\\.nuget\\packages\\microsoft.data.sqlite.core\\7.0.11\\microsoft.data.sqlite.core.7.0.11.nupkg.sha512",
     "C:\\Users\\boguc\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.11\\microsoft.entityframeworkcore.7.0.11.nupkg.sha512",
     "C:\\Users\\boguc\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\7.0.11\\microsoft.entityframeworkcore.abstractions.7.0.11.nupkg.sha512",

@@ -1,0 +1,12 @@
+D:\Study\Csharp\GameDataProject\Donations.Data\bin\Debug\net7.0\Donations.Data.deps.json
+D:\Study\Csharp\GameDataProject\Donations.Data\bin\Debug\net7.0\Donations.Data.dll
+D:\Study\Csharp\GameDataProject\Donations.Data\bin\Debug\net7.0\Donations.Data.pdb
+D:\Study\Csharp\GameDataProject\Donations.Data\obj\Debug\net7.0\Donations.Data.csproj.AssemblyReference.cache
+D:\Study\Csharp\GameDataProject\Donations.Data\obj\Debug\net7.0\Donations.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\Csharp\GameDataProject\Donations.Data\obj\Debug\net7.0\Donations.Data.AssemblyInfoInputs.cache
+D:\Study\Csharp\GameDataProject\Donations.Data\obj\Debug\net7.0\Donations.Data.AssemblyInfo.cs
+D:\Study\Csharp\GameDataProject\Donations.Data\obj\Debug\net7.0\Donations.Data.csproj.CoreCompileInputs.cache
+D:\Study\Csharp\GameDataProject\Donations.Data\obj\Debug\net7.0\Donations.Data.dll
+D:\Study\Csharp\GameDataProject\Donations.Data\obj\Debug\net7.0\refint\Donations.Data.dll
+D:\Study\Csharp\GameDataProject\Donations.Data\obj\Debug\net7.0\Donations.Data.pdb
+D:\Study\Csharp\GameDataProject\Donations.Data\obj\Debug\net7.0\ref\Donations.Data.dll

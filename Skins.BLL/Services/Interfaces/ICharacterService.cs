@@ -11,8 +11,7 @@ namespace Skins.BLL.Services.Interfaces
     public interface ICharacterService
     {
         Task<IBaseResponse<IEnumerable<CharacterDTO>>> GetAll();
-        Task<IBaseResponse<string>> UpdateById(Guid id, CharacterDTO characterDto);
-        Task<IBaseResponse<string>> Insert(CharacterDTO characterDto);
+        Task<IBaseResponse<string>> Insert(CharacterDTO modelDto);
         Task<IBaseResponse<string>> DeleteById(Guid id);
     }
 }
