@@ -1,0 +1,12 @@
+D:\Study\Csharp\GameDataProject\PlayerStats.Data\bin\Debug\net7.0\PlayerStats.Data.deps.json
+D:\Study\Csharp\GameDataProject\PlayerStats.Data\bin\Debug\net7.0\PlayerStats.Data.dll
+D:\Study\Csharp\GameDataProject\PlayerStats.Data\bin\Debug\net7.0\PlayerStats.Data.pdb
+D:\Study\Csharp\GameDataProject\PlayerStats.Data\obj\Debug\net7.0\PlayerStats.Data.csproj.AssemblyReference.cache
+D:\Study\Csharp\GameDataProject\PlayerStats.Data\obj\Debug\net7.0\PlayerStats.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\Csharp\GameDataProject\PlayerStats.Data\obj\Debug\net7.0\PlayerStats.Data.AssemblyInfoInputs.cache
+D:\Study\Csharp\GameDataProject\PlayerStats.Data\obj\Debug\net7.0\PlayerStats.Data.AssemblyInfo.cs
+D:\Study\Csharp\GameDataProject\PlayerStats.Data\obj\Debug\net7.0\PlayerStats.Data.csproj.CoreCompileInputs.cache
+D:\Study\Csharp\GameDataProject\PlayerStats.Data\obj\Debug\net7.0\PlayerStats.Data.dll
+D:\Study\Csharp\GameDataProject\PlayerStats.Data\obj\Debug\net7.0\refint\PlayerStats.Data.dll
+D:\Study\Csharp\GameDataProject\PlayerStats.Data\obj\Debug\net7.0\PlayerStats.Data.pdb
+D:\Study\Csharp\GameDataProject\PlayerStats.Data\obj\Debug\net7.0\ref\PlayerStats.Data.dll

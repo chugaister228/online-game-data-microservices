@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\PlayerStats.API.props" />
+</Project>

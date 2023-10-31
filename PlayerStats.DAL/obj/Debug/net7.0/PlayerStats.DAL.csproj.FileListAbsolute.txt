@@ -1,0 +1,17 @@
+D:\Study\Csharp\GameDataProject\PlayerStats.DAL\bin\Debug\net7.0\PlayerStats.DAL.deps.json
+D:\Study\Csharp\GameDataProject\PlayerStats.DAL\bin\Debug\net7.0\PlayerStats.DAL.runtimeconfig.json
+D:\Study\Csharp\GameDataProject\PlayerStats.DAL\bin\Debug\net7.0\PlayerStats.DAL.dll
+D:\Study\Csharp\GameDataProject\PlayerStats.DAL\bin\Debug\net7.0\PlayerStats.DAL.pdb
+D:\Study\Csharp\GameDataProject\PlayerStats.DAL\bin\Debug\net7.0\PlayerStats.Data.dll
+D:\Study\Csharp\GameDataProject\PlayerStats.DAL\bin\Debug\net7.0\PlayerStats.Data.pdb
+D:\Study\Csharp\GameDataProject\PlayerStats.DAL\obj\Debug\net7.0\PlayerStats.DAL.csproj.AssemblyReference.cache
+D:\Study\Csharp\GameDataProject\PlayerStats.DAL\obj\Debug\net7.0\PlayerStats.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\Csharp\GameDataProject\PlayerStats.DAL\obj\Debug\net7.0\PlayerStats.DAL.AssemblyInfoInputs.cache
+D:\Study\Csharp\GameDataProject\PlayerStats.DAL\obj\Debug\net7.0\PlayerStats.DAL.AssemblyInfo.cs
+D:\Study\Csharp\GameDataProject\PlayerStats.DAL\obj\Debug\net7.0\PlayerStats.DAL.csproj.CoreCompileInputs.cache
+D:\Study\Csharp\GameDataProject\PlayerStats.DAL\obj\Debug\net7.0\PlayerStats.DAL.csproj.CopyComplete
+D:\Study\Csharp\GameDataProject\PlayerStats.DAL\obj\Debug\net7.0\PlayerStats.DAL.dll
+D:\Study\Csharp\GameDataProject\PlayerStats.DAL\obj\Debug\net7.0\refint\PlayerStats.DAL.dll
+D:\Study\Csharp\GameDataProject\PlayerStats.DAL\obj\Debug\net7.0\PlayerStats.DAL.pdb
+D:\Study\Csharp\GameDataProject\PlayerStats.DAL\obj\Debug\net7.0\PlayerStats.DAL.genruntimeconfig.cache
+D:\Study\Csharp\GameDataProject\PlayerStats.DAL\obj\Debug\net7.0\ref\PlayerStats.DAL.dll
