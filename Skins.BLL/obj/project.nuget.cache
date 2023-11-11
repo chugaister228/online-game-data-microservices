@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "3Q7XG3XNfm0m+eKKPKAvz/A9sXe2b2uSsBopEHSO0dmwAx+8F5kSVgwc7QPRV0vgZlqPWa230v6qkzcO6arFnw==",
+  "dgSpecHash": "BSXz2L2Fi1O7qrn+EOkkqoe7s9JoL3T08E7xe9Db5LlwjXbxa38hUZpYSTdKCRJG0+oisn9y6LYEwrGuxMMnYw==",
   "success": true,
   "projectFilePath": "D:\\Study\\Csharp\\GameDataProject\\Skins.BLL\\Skins.BLL.csproj",
   "expectedPackageFiles": [
@@ -28,6 +28,7 @@
     "C:\\Users\\boguc\\.nuget\\packages\\microsoft.extensions.options\\7.0.0\\microsoft.extensions.options.7.0.0.nupkg.sha512",
     "C:\\Users\\boguc\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512",
     "C:\\Users\\boguc\\.nuget\\packages\\mono.texttemplating\\2.2.1\\mono.texttemplating.2.2.1.nupkg.sha512",
+    "C:\\Users\\boguc\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
     "C:\\Users\\boguc\\.nuget\\packages\\sqlitepclraw.bundle_e_sqlite3\\2.1.4\\sqlitepclraw.bundle_e_sqlite3.2.1.4.nupkg.sha512",
     "C:\\Users\\boguc\\.nuget\\packages\\sqlitepclraw.core\\2.1.4\\sqlitepclraw.core.2.1.4.nupkg.sha512",
     "C:\\Users\\boguc\\.nuget\\packages\\sqlitepclraw.lib.e_sqlite3\\2.1.4\\sqlitepclraw.lib.e_sqlite3.2.1.4.nupkg.sha512",

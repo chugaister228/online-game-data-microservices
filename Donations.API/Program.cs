@@ -29,6 +29,11 @@ builder.Services.AddScoped<IDonationService, DonationService>();
 builder.Services.AddScoped<IProductService, ProductService>();
 builder.Services.AddScoped<IUserService, UserService>();
 
+builder.Services.AddStackExchangeRedisCache(options => {
+    options.Configuration = "localhost";
+    options.InstanceName = "local";
+});
+
 var app = builder.Build();
 
 if (app.Environment.IsDevelopment())

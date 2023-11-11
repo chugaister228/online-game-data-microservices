@@ -29,6 +29,11 @@ builder.Services.AddScoped<IFriendService, FriendService>();
 builder.Services.AddScoped<IPlayerService, PlayerService>();
 builder.Services.AddScoped<IViolationService, ViolationService>();
 
+builder.Services.AddStackExchangeRedisCache(options => {
+    options.Configuration = "localhost";
+    options.InstanceName = "local";
+});
+
 var app = builder.Build();
 
 if (app.Environment.IsDevelopment())

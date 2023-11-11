@@ -10,6 +10,7 @@ namespace PlayerStats.BLL.Services.Interfaces
 {
     public interface IPlayerService
     {
+        Task<IBaseResponse<PlayerDTO>> GetById(Guid id);
         Task<IBaseResponse<IEnumerable<PlayerDTO>>> GetAll();
         Task<IBaseResponse<string>> Insert(PlayerDTO modelDto);
         Task<IBaseResponse<string>> DeleteById(Guid id);

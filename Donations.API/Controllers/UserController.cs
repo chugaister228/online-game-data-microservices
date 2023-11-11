@@ -15,6 +15,12 @@ namespace Donations.API.Controllers
             _service = service;
         }
 
+        [HttpGet("{id}")]
+        public async Task<ActionResult<UserDTO>> GetById(Guid id)
+        {
+            return Ok(await _service.GetById(id));
+        }
+
         [HttpGet]
         public async Task<ActionResult<IEnumerable<UserDTO>>> GetAll()
         {

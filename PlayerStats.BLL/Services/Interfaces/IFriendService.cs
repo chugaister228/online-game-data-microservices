@@ -10,6 +10,7 @@ namespace PlayerStats.BLL.Services.Interfaces
 {
     public interface IFriendService
     {
+        Task<IBaseResponse<FriendDTO>> GetById(Guid id);
         Task<IBaseResponse<IEnumerable<FriendDTO>>> GetAll();
         Task<IBaseResponse<string>> Insert(FriendDTO modelDto);
         Task<IBaseResponse<string>> DeleteById(Guid id);

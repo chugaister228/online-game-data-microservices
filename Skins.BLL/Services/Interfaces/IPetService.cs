@@ -10,6 +10,7 @@ namespace Skins.BLL.Services.Interfaces
 {
     public interface IPetService
     {
+        Task<IBaseResponse<PetDTO>> GetById(Guid id);
         Task<IBaseResponse<IEnumerable<PetDTO>>> GetAll();
         Task<IBaseResponse<string>> Insert(PetDTO modelDto);
         Task<IBaseResponse<string>> DeleteById(Guid id);

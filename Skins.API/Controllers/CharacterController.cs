@@ -15,6 +15,12 @@ namespace Skins.API.Controllers
             _service = service;
         }
 
+        [HttpGet("{id}")]
+        public async Task<ActionResult<CharacterDTO>> GetById(Guid id)
+        {
+            return Ok(await _service.GetById(id));
+        }
+
         [HttpGet]
         public async Task<ActionResult<IEnumerable<CharacterDTO>>> GetAll()
         {

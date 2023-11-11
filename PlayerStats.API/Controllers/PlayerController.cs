@@ -15,6 +15,12 @@ namespace PlayerStats.API.Controllers
             _service = service;
         }
 
+        [HttpGet("{id}")]
+        public async Task<ActionResult<PlayerDTO>> GetById(Guid id)
+        {
+            return Ok(await _service.GetById(id));
+        }
+
         [HttpGet]
         public async Task<ActionResult<IEnumerable<PlayerDTO>>> GetAll()
         {

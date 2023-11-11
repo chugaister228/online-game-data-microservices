@@ -10,6 +10,7 @@ namespace Donations.BLL.Services.Interfaces
 {
     public interface IDonationService
     {
+        Task<IBaseResponse<DonationDTO>> GetById(Guid id);
         Task<IBaseResponse<IEnumerable<DonationDTO>>> GetAll();
         Task<IBaseResponse<string>> Insert(DonationDTO modelDto);
         Task<IBaseResponse<string>> DeleteById(Guid id);

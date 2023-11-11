@@ -5,6 +5,7 @@ namespace PlayerStats.BLL.Services.Interfaces
 {
     public interface IViolationService
     {
+        Task<IBaseResponse<ViolationDTO>> GetById(Guid id);
         Task<IBaseResponse<IEnumerable<ViolationDTO>>> GetAll();
         Task<IBaseResponse<string>> Insert(ViolationDTO modelDto);
         Task<IBaseResponse<string>> DeleteById(Guid id);

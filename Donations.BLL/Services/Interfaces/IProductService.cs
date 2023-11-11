@@ -10,6 +10,7 @@ namespace Donations.BLL.Services.Interfaces
 {
     public interface IProductService
     {
+        Task<IBaseResponse<ProductDTO>> GetById(Guid id);
         Task<IBaseResponse<IEnumerable<ProductDTO>>> GetAll();
         Task<IBaseResponse<string>> Insert(ProductDTO modelDto);
         Task<IBaseResponse<string>> DeleteById(Guid id);

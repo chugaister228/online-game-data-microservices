@@ -10,6 +10,7 @@ namespace Skins.BLL.Services.Interfaces
 {
     public interface IWeaponService
     {
+        Task<IBaseResponse<WeaponDTO>> GetById(Guid id);
         Task<IBaseResponse<IEnumerable<WeaponDTO>>> GetAll();
         Task<IBaseResponse<string>> Insert(WeaponDTO modelDto);
         Task<IBaseResponse<string>> DeleteById(Guid id);

@@ -10,6 +10,7 @@ namespace Skins.BLL.Services.Interfaces
 {
     public interface ICharacterService
     {
+        Task<IBaseResponse<CharacterDTO>> GetById(Guid id);
         Task<IBaseResponse<IEnumerable<CharacterDTO>>> GetAll();
         Task<IBaseResponse<string>> Insert(CharacterDTO modelDto);
         Task<IBaseResponse<string>> DeleteById(Guid id);

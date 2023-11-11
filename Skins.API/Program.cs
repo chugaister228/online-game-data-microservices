@@ -29,6 +29,11 @@ builder.Services.AddScoped<ICharacterService, CharacterService>();
 builder.Services.AddScoped<IPetService, PetService>();
 builder.Services.AddScoped<IWeaponService, WeaponService>();
 
+builder.Services.AddStackExchangeRedisCache(options => {
+    options.Configuration = "localhost";
+    options.InstanceName = "local";
+});
+
 var app = builder.Build();
 
 if (app.Environment.IsDevelopment())

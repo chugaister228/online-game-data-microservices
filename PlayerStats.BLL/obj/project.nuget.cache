@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "grBlZx1/6IDiRs88I/8bJaVlbY5iA94Q7IyQ0lambBdqKnD8FZiON9FzqSx0srh86maXfW3U8e7myecKS7uvPg==",
+  "dgSpecHash": "8oeeGONKKwFuKwz/INKV3Bjdhr/UPkloqpkDfB9B7BwK7iUXBC0TmjqSja217mngaTmRppUKrQK3pIFfJIJ4SQ==",
   "success": true,
   "projectFilePath": "D:\\Study\\Csharp\\GameDataProject\\PlayerStats.BLL\\PlayerStats.BLL.csproj",
   "expectedPackageFiles": [
@@ -24,6 +24,7 @@
     "C:\\Users\\boguc\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.0\\microsoft.extensions.logging.abstractions.7.0.0.nupkg.sha512",
     "C:\\Users\\boguc\\.nuget\\packages\\microsoft.extensions.options\\7.0.0\\microsoft.extensions.options.7.0.0.nupkg.sha512",
     "C:\\Users\\boguc\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512",
+    "C:\\Users\\boguc\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
     "C:\\Users\\boguc\\.nuget\\packages\\sqlitepclraw.bundle_e_sqlite3\\2.1.4\\sqlitepclraw.bundle_e_sqlite3.2.1.4.nupkg.sha512",
     "C:\\Users\\boguc\\.nuget\\packages\\sqlitepclraw.core\\2.1.4\\sqlitepclraw.core.2.1.4.nupkg.sha512",
     "C:\\Users\\boguc\\.nuget\\packages\\sqlitepclraw.lib.e_sqlite3\\2.1.4\\sqlitepclraw.lib.e_sqlite3.2.1.4.nupkg.sha512",
