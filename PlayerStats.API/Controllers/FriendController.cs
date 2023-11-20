@@ -15,13 +15,13 @@ namespace PlayerStats.API.Controllers
             _service = service;
         }
 
-        [HttpGet("{id}")]
+        [HttpGet("GetById/{id}")]
         public async Task<ActionResult<FriendDTO>> GetById(Guid id)
         {
             return Ok(await _service.GetById(id));
         }
 
-        [HttpGet]
+        [HttpGet("Get")]
         public async Task<ActionResult<IEnumerable<FriendDTO>>> GetAll()
         {
             return Ok(await _service.GetAll());

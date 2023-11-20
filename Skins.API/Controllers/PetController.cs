@@ -15,13 +15,13 @@ namespace Skins.API.Controllers
             _service = service;
         }
 
-        [HttpGet("{id}")]
+        [HttpGet("GetById/{id}")]
         public async Task<ActionResult<PetDTO>> GetById(Guid id)
         {
             return Ok(await _service.GetById(id));
         }
 
-        [HttpGet]
+        [HttpGet("Get")]
         public async Task<ActionResult<IEnumerable<PetDTO>>> GetAll()
         {
             return Ok(await _service.GetAll());

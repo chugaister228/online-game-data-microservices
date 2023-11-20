@@ -15,13 +15,13 @@ namespace Donations.API.Controllers
             _service = service;
         }
 
-        [HttpGet("GetDonationById/{id}")]
+        [HttpGet("GetById/{id}")]
         public async Task<ActionResult<DonationDTO>> GetById(Guid id)
         {
             return Ok(await _service.GetById(id));
         }
 
-        [HttpGet("GetDonations")]
+        [HttpGet("Get")]
         public async Task<ActionResult<IEnumerable<DonationDTO>>> GetAll()
         {
             return Ok(await _service.GetAll());

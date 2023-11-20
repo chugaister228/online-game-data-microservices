@@ -1,6 +1,5 @@
 D:\Study\Csharp\GameDataProject\APIGateway\bin\Debug\net7.0\appsettings.Development.json
 D:\Study\Csharp\GameDataProject\APIGateway\bin\Debug\net7.0\appsettings.json
-D:\Study\Csharp\GameDataProject\APIGateway\bin\Debug\net7.0\ocelot.json
 D:\Study\Csharp\GameDataProject\APIGateway\bin\Debug\net7.0\APIGateway.exe
 D:\Study\Csharp\GameDataProject\APIGateway\bin\Debug\net7.0\APIGateway.deps.json
 D:\Study\Csharp\GameDataProject\APIGateway\bin\Debug\net7.0\APIGateway.runtimeconfig.json
@@ -36,3 +35,4 @@ D:\Study\Csharp\GameDataProject\APIGateway\obj\Debug\net7.0\refint\APIGateway.dl
 D:\Study\Csharp\GameDataProject\APIGateway\obj\Debug\net7.0\APIGateway.pdb
 D:\Study\Csharp\GameDataProject\APIGateway\obj\Debug\net7.0\APIGateway.genruntimeconfig.cache
 D:\Study\Csharp\GameDataProject\APIGateway\obj\Debug\net7.0\ref\APIGateway.dll
+D:\Study\Csharp\GameDataProject\APIGateway\bin\Debug\net7.0\gateway-configuration.json
