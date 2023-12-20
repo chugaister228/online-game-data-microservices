@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "W/VvHc/PDgSU0sNBU1Sq8W0J2CoFzKRFWLjKlG7+GLrgMsmsjxjUDM+55HfCLV9rkYPZDdXp1W1Ki0ckMqgaHA==",
+  "dgSpecHash": "I6VX2gSm4m35ARi3TuwnaMgbsu9kWb6OlBaLcMfXSyMs1tdNOXwPv10VnC2L7WRUOSkCP2ik5/73LbcBTeFdDg==",
   "success": true,
   "projectFilePath": "D:\\Study\\Csharp\\GameDataProject\\Skins.API\\Skins.API.csproj",
   "expectedPackageFiles": [
@@ -33,6 +33,7 @@
     "C:\\Users\\boguc\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512",
     "C:\\Users\\boguc\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
     "C:\\Users\\boguc\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
+    "C:\\Users\\boguc\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.18.1\\microsoft.visualstudio.azure.containers.tools.targets.1.18.1.nupkg.sha512",
     "C:\\Users\\boguc\\.nuget\\packages\\microsoft.win32.registry\\5.0.0\\microsoft.win32.registry.5.0.0.nupkg.sha512",
     "C:\\Users\\boguc\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0\\microsoft.win32.systemevents.5.0.0.nupkg.sha512",
     "C:\\Users\\boguc\\.nuget\\packages\\mono.texttemplating\\2.2.1\\mono.texttemplating.2.2.1.nupkg.sha512",

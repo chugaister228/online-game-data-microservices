@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "rhOmByb24HbkpZsqRcmIPkowCfVjbivrXk3LX4sv9yHErf2I+lBVnTAiq08p4CC7Q8Qz7KknJ0y90MRgcfJxLw==",
+  "dgSpecHash": "6M33Qw+5kD/K1GrTszyVU8SxFtuB2Cxino9TCOvuNaDRxvPTW+diwrJTnm7QuRi+f4lmUE4khq+ElHx7y0IV/w==",
   "success": true,
   "projectFilePath": "D:\\Study\\Csharp\\GameDataProject\\PlayerStats.API\\PlayerStats.API.csproj",
   "expectedPackageFiles": [
@@ -33,6 +33,7 @@
     "C:\\Users\\boguc\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512",
     "C:\\Users\\boguc\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
     "C:\\Users\\boguc\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
+    "C:\\Users\\boguc\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.18.1\\microsoft.visualstudio.azure.containers.tools.targets.1.18.1.nupkg.sha512",
     "C:\\Users\\boguc\\.nuget\\packages\\microsoft.win32.registry\\5.0.0\\microsoft.win32.registry.5.0.0.nupkg.sha512",
     "C:\\Users\\boguc\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0\\microsoft.win32.systemevents.5.0.0.nupkg.sha512",
     "C:\\Users\\boguc\\.nuget\\packages\\mono.texttemplating\\2.2.1\\mono.texttemplating.2.2.1.nupkg.sha512",

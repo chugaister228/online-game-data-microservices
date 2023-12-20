@@ -1,0 +1,14 @@
+{
+  "profiles": {
+    "Docker Compose": {
+      "commandName": "DockerCompose",
+      "commandVersion": "1.0",
+      "serviceActions": {
+        "donations.api": "StartDebugging",
+        "playerstats.api": "StartDebugging",
+        "skins.api": "StartDebugging",
+        "apigateway": "StartDebugging"
+      }
+    }
+  }
+}

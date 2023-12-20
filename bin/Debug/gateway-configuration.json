@@ -1,0 +1,244 @@
+{
+  "Routes": [
+
+    // Donations API configuration
+
+        // Donation
+        {
+          "DownstreamPathTemplate": "/api/Donation/Get",
+          "DownstreamScheme": "http",
+          "DownstreamHostAndPorts": [
+            {
+              "Host": "localhost",
+              "Port": 5080
+            }
+          ],
+          "UpstreamPathTemplate": "/Donation/Get",
+          "UpstreamHttpMethod": [ "GET" ]
+        },
+        {
+          "DownstreamPathTemplate": "/api/Donation/GetById/{id}",
+          "DownstreamScheme": "http",
+          "DownstreamHostAndPorts": [
+            {
+              "Host": "localhost",
+              "Port": 5080
+            }
+          ],
+          "UpstreamPathTemplate": "/Donation/GetById/{id}",
+          "UpstreamHttpMethod": [ "GET" ]
+        },
+
+        //Product
+        {
+          "DownstreamPathTemplate": "/api/Product/Get",
+          "DownstreamScheme": "http",
+          "DownstreamHostAndPorts": [
+            {
+              "Host": "localhost",
+              "Port": 5080
+            }
+          ],
+          "UpstreamPathTemplate": "/Product/Get",
+          "UpstreamHttpMethod": [ "GET" ]
+        },
+        {
+          "DownstreamPathTemplate": "/api/Product/GetById/{id}",
+          "DownstreamScheme": "http",
+          "DownstreamHostAndPorts": [
+            {
+              "Host": "localhost",
+              "Port": 5080
+            }
+          ],
+          "UpstreamPathTemplate": "/Product/GetById/{id}",
+          "UpstreamHttpMethod": [ "GET" ]
+        },
+
+        //User
+        {
+          "DownstreamPathTemplate": "/api/User/Get",
+          "DownstreamScheme": "http",
+          "DownstreamHostAndPorts": [
+            {
+              "Host": "localhost",
+              "Port": 5080
+            }
+          ],
+          "UpstreamPathTemplate": "/User/Get",
+          "UpstreamHttpMethod": [ "GET" ]
+        },
+        {
+          "DownstreamPathTemplate": "/api/User/GetById/{id}",
+          "DownstreamScheme": "http",
+          "DownstreamHostAndPorts": [
+            {
+              "Host": "localhost",
+              "Port": 5080
+            }
+          ],
+          "UpstreamPathTemplate": "/User/GetById/{id}",
+          "UpstreamHttpMethod": [ "GET" ]
+        },
+
+    // Players statistic API configuration
+
+        // Friend
+        {
+          "DownstreamPathTemplate": "/api/Friend/Get",
+          "DownstreamScheme": "http",
+          "DownstreamHostAndPorts": [
+            {
+              "Host": "localhost",
+              "Port": 5023
+            }
+          ],
+          "UpstreamPathTemplate": "/Friend/Get",
+          "UpstreamHttpMethod": [ "GET" ]
+        },
+        {
+          "DownstreamPathTemplate": "/api/Friend/GetById/{id}",
+          "DownstreamScheme": "http",
+          "DownstreamHostAndPorts": [
+            {
+              "Host": "localhost",
+              "Port": 5023
+            }
+          ],
+          "UpstreamPathTemplate": "/Friend/GetById/{id}",
+          "UpstreamHttpMethod": [ "GET" ]
+        },
+
+        //Player
+        {
+          "DownstreamPathTemplate": "/api/Player/Get",
+          "DownstreamScheme": "http",
+          "DownstreamHostAndPorts": [
+            {
+              "Host": "localhost",
+              "Port": 5023
+            }
+          ],
+          "UpstreamPathTemplate": "/Player/Get",
+          "UpstreamHttpMethod": [ "GET" ]
+        },
+        {
+          "DownstreamPathTemplate": "/api/Player/GetById/{id}",
+          "DownstreamScheme": "http",
+          "DownstreamHostAndPorts": [
+            {
+              "Host": "localhost",
+              "Port": 5023
+            }
+          ],
+          "UpstreamPathTemplate": "/Player/GetById/{id}",
+          "UpstreamHttpMethod": [ "GET" ]
+        },
+
+        //Violation
+        {
+          "DownstreamPathTemplate": "/api/Violation/Get",
+          "DownstreamScheme": "http",
+          "DownstreamHostAndPorts": [
+            {
+              "Host": "localhost",
+              "Port": 5023
+            }
+          ],
+          "UpstreamPathTemplate": "/Violation/Get",
+          "UpstreamHttpMethod": [ "GET" ]
+        },
+        {
+          "DownstreamPathTemplate": "/api/Violation/GetById/{id}",
+          "DownstreamScheme": "http",
+          "DownstreamHostAndPorts": [
+            {
+              "Host": "localhost",
+              "Port": 5023
+            }
+          ],
+          "UpstreamPathTemplate": "/Violation/GetById/{id}",
+          "UpstreamHttpMethod": [ "GET" ]
+        },
+
+    // Skins API configuration
+
+        // Character
+        {
+          "DownstreamPathTemplate": "/api/Character/Get",
+          "DownstreamScheme": "http",
+          "DownstreamHostAndPorts": [
+            {
+              "Host": "localhost",
+              "Port": 5264
+            }
+          ],
+          "UpstreamPathTemplate": "/Character/Get",
+          "UpstreamHttpMethod": [ "GET" ]
+        },
+        {
+          "DownstreamPathTemplate": "/api/Character/GetById/{id}",
+          "DownstreamScheme": "http",
+          "DownstreamHostAndPorts": [
+            {
+              "Host": "localhost",
+              "Port": 5264
+            }
+          ],
+          "UpstreamPathTemplate": "/Character/GetById/{id}",
+          "UpstreamHttpMethod": [ "GET" ]
+        },
+
+        //Pet
+        {
+          "DownstreamPathTemplate": "/api/Pet/Get",
+          "DownstreamScheme": "http",
+          "DownstreamHostAndPorts": [
+            {
+              "Host": "localhost",
+              "Port": 5264
+            }
+          ],
+          "UpstreamPathTemplate": "/Pet/Get",
+          "UpstreamHttpMethod": [ "GET" ]
+        },
+        {
+          "DownstreamPathTemplate": "/api/Pet/GetById/{id}",
+          "DownstreamScheme": "http",
+          "DownstreamHostAndPorts": [
+            {
+              "Host": "localhost",
+              "Port": 5264
+            }
+          ],
+          "UpstreamPathTemplate": "/Pet/GetById/{id}",
+          "UpstreamHttpMethod": [ "GET" ]
+        },
+
+        //Weapon
+        {
+          "DownstreamPathTemplate": "/api/Weapon/Get",
+          "DownstreamScheme": "http",
+          "DownstreamHostAndPorts": [
+            {
+              "Host": "localhost",
+              "Port": 5264
+            }
+          ],
+          "UpstreamPathTemplate": "/Weapon/Get",
+          "UpstreamHttpMethod": [ "GET" ]
+        },
+        {
+          "DownstreamPathTemplate": "/api/Weapon/GetById/{id}",
+          "DownstreamScheme": "http",
+          "DownstreamHostAndPorts": [
+            {
+              "Host": "localhost",
+              "Port": 5264
+            }
+          ],
+          "UpstreamPathTemplate": "/Weapon/GetById/{id}",
+          "UpstreamHttpMethod": [ "GET" ]
+        }
+  ]
+}
